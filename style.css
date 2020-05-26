@@ -1,5 +1,11 @@
+/* Palette:
+HEX: #f0efef
+HEX: #ddeedd
+HEX: #c2d4dd
+HEX: #b0aac0 */
+
 .calculator {
-  margin: 20px 20px;
+  margin: 20px 10px;
   display: grid;
   grid-template-columns: repeat(4, 40px);
   grid-template-rows: repeat(6, 40px);
